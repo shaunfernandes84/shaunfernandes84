@@ -1,6 +1,7 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Shaun Fernandes</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShqvrmwKA68rEKj6BVdPBWQEvskWTzwQdS4THYKmKhnw&s">
 
 - 🔭 I’m currently working on **Shopping website**
 
@@ -31,6 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaunfernandes84&show_icons=true&locale=en" alt="shaunfernandes84" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunfernandes84&" alt="shaunfernandes84" /></p>
-
 
 
