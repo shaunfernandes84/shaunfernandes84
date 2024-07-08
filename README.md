@@ -1,7 +1,7 @@
 ![MasterHead](https://78.media.tumblr.com/95f02d55724b631531d0b32dbd001297/tumblr_p177vracYv1wh4uq0o1_1280.gif)
 <h1 align="center">Hi 👋, I'm Shaun Fernandes</h1>
 <h3 align="center">A passionate CS Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ce3281834b6531d50c8496bb306bf274a14d105f8af16b5a8cea9ce49ca265ce/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63662f65662f38362f63666566383665643735366332626564353762356563386462303161353235322e676966">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.26a4468da102e12d39dd76dec553aa34?rik=HdlwOQrB55yHvA&riu=http%3a%2f%2fiihtng.com%2fwp-content%2fuploads%2f2020%2f01%2fProgramming-Language.jpg&ehk=cTY1G9Cond%2fyJ6Qw7uBypJ663tXOBuDNgSAj7fFl2Iw%3d&risl=&pid=ImgRaw&r=0">
 
 - 🔭 I’m currently working on **Shopping website**
 
